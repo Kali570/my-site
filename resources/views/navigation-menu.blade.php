@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
                     <a href="{{ route('dashboard') }}">
-                        <x-jet-application-mark class="block h-9 w-auto" />
+                        <img class="w-10" src="random_logo_i_was_bored_designing_by_shadow3vi1_d5difqb-fullview.png">
                     </a>
                 </div>
 
